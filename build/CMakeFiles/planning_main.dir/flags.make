@@ -4,7 +4,7 @@
 # compile CXX with D:/Microsoft VS Code/MinGW/mingw64/bin/g++.exe
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = @CMakeFiles/planning_main.dir/includes_CXX.rsp
 
 CXX_FLAGS = -g
 
