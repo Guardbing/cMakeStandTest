@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/VsCode/cMakeStandTest/build",
+  "command": "\"D:\\Microsoft VS Code\\MinGW\\mingw64\\bin\\g++.exe\"   -g -o CMakeFiles\\planning_main.dir\\planning_main.cpp.obj -c D:\\VsCode\\cMakeStandTest\\planning_main.cpp",
+  "file": "D:/VsCode/cMakeStandTest/planning_main.cpp",
+  "output": "CMakeFiles/planning_main.dir/planning_main.cpp.obj"
+},
+{
+  "directory": "D:/VsCode/cMakeStandTest/build",
+  "command": "\"D:\\Microsoft VS Code\\MinGW\\mingw64\\bin\\g++.exe\"   -g -o CMakeFiles\\planning_main.dir\\pnc_map.cpp.obj -c D:\\VsCode\\cMakeStandTest\\pnc_map.cpp",
+  "file": "D:/VsCode/cMakeStandTest/pnc_map.cpp",
+  "output": "CMakeFiles/planning_main.dir/pnc_map.cpp.obj"
+},
+{
+  "directory": "D:/VsCode/cMakeStandTest/build",
+  "command": "\"D:\\Microsoft VS Code\\MinGW\\mingw64\\bin\\g++.exe\"   -g -o CMakeFiles\\planning_main.dir\\process.cpp.obj -c D:\\VsCode\\cMakeStandTest\\process.cpp",
+  "file": "D:/VsCode/cMakeStandTest/process.cpp",
+  "output": "CMakeFiles/planning_main.dir/process.cpp.obj"
+}
+]
